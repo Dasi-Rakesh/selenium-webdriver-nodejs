@@ -1,6 +1,6 @@
 # BrowserStack Selenium Example with NodeJS
 
-This project provides examples for running tests using Jasmine and Selenium Webdriver with BrowserStack. The tests are written in Node.js and use the Jasmine testing framework.
+This project provides examples for running tests using NodeJS and Selenium Webdriver with BrowserStack. The tests are written in Node.js
 
 ## Setup
 
