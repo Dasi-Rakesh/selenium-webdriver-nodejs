@@ -1,0 +1,22 @@
+{
+  "name": "browserstack-examples-jasmine-selenium-webdriver",
+  "version": "1.0.0",
+  "description": "Examples for running tests using Jasmine and Selenium Webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "node Tests/mainScript.js"   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserstack-node-sdk": "^1.31.22",
+    "jasmine": "^3.99.0",
+    "selenium-webdriver": "^4.18.1"
+  },
+  "dependencies": {
+    "start": "^5.1.0",
+    "update": "^0.7.4",
+    "webdriver-manager": "^12.1.9"
+  }
+}
