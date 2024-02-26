@@ -16,7 +16,7 @@ Ensure you have the following dependencies installed:
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Dasi-Rakesh/selenium-webdriver-nodejs.git
 ```
 
 ### Install dependencies:
